@@ -1,6 +1,6 @@
 # Fundamentals-Assessment-2019
 
-This repository contains my solution to the Assessment Project 2019 in the Fundamentals of Data Analysis. 
+This repository contains my solution to the Assessment Project 2019 in the Fundamentals of Data Analysis (see PDF instruction as a separate record in the jupyter notebook).
 
 How to download this repository:
 - Go to Github
